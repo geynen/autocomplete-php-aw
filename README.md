@@ -1,4 +1,3 @@
-autocomplete-php-aw
-===================
+Documentaci�n Aqu�:
 
-Autocompletar con php y Active Witgets
+https://geynen.wordpress.com/2011/02/04/autocompletar-con-php-y--ajax-aw-js/
